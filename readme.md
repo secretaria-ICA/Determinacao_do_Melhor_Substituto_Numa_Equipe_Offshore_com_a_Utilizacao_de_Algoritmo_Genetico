@@ -1,4 +1,4 @@
-# Determinação_do_Melhor_Substitut_numa_Equipe_Offshore_com_a_Utilização_de_Algoritmo_Genético
+# Determinação_do_Melhor_Substituto_numa_Equipe_Offshore_com_a_Utilização_de_Algoritmo_Genético
 
 #### Aluno: [Roberto Alejandro Tello Echenique](https://github.com/rob-tello)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
